@@ -10,7 +10,7 @@ I'm a student of **Thammasat school of engineering** and my major is Computer en
 ---
 
 ## My image
-![Me with glasses](rich_glasses.jpg)
+![Me with glasses](images/rich_glasses.jpg)
 
 ---
 
