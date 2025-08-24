@@ -1,5 +1,3 @@
-# 6710615185.github.io
-
 # Hello World! 
 
 My name is **Purich Ampawa**  
