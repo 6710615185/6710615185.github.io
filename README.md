@@ -5,7 +5,7 @@ I'm a student of **Thammasat school of engineering** and my major is Computer en
 
 ## About Me <3
 - 💻 Interesting with : Data Science, ML, AI, Backend
-- 📚 Hobby: Book reader, music, cooking
+- 📚 Hobby: book reading, cleaning etc., cooking
 
 ---
 
