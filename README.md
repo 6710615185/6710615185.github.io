@@ -10,9 +10,7 @@ I'm a student of **Thammasat school of engineering** and my major is Computer en
 ---
 
 ## My image
-<p align="center">
-  <img src="rich_glasses.jpg" alt="Me with glasses" width="300" style="border-radius:15px>
-</p>
+![Me with glasses](rich_glasses.jpg)
 
 ---
 
